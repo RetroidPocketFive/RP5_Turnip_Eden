@@ -1,10 +1,14 @@
 # Changelog
 
-## Unreleased — V1 research
+## V1 — Initial RP5/Eden research baseline
 
-- Added RP5 / Snapdragon 865 / Adreno 650 project baseline.
-- Added fixed Eden Legacy v0.2.0-rc1 BOTW test configuration.
-- Added V1 research patch/documentation.
-- Established R9v2 as stability reference and T19 as performance/detail reference.
+- Established Retroid Pocket 5 / Snapdragon 865 / Adreno 650 target.
+- Established Eden Legacy v0.2.0-rc1 baseline.
+- Established Mesa 24.3.0 source baseline.
+- Established R9v2 as the stability reference.
+- Established T19 as the performance/detail reference.
+- Added controlled testing documentation.
+- Removed platform-specific project wording; the project is centred on RP5 + Eden optimisation.
+- Added source-patch workspace for V1.
 
-No compiled Android driver is included in this repository release.
+No compiled Android driver is claimed by this repository version.
